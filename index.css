@@ -1,0 +1,17 @@
+#block {
+    position: relative;
+    width: 1000px;
+    height: 500px;
+    overflow: hidden;
+    border: black solid 3px;
+  margin-left: 50px;
+    cursor: pointer;
+    background-image: url(bg.png);
+}
+
+img {
+    position: absolute;
+    left: 250px;
+    top: 20px;
+ 
+}
